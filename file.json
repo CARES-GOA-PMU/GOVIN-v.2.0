@@ -1,0 +1,14 @@
+{
+    "status": "ok",
+    "version": "2.1.2",
+    "name": "GOVIN",
+    "description": "GOVIN v2 Application",
+    "author": {
+      "name": "PMU-CARES Goa"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/CARES-GOA-PMU/GOVIN-v2.0"
+    },
+    "license": "MIT"
+  }
