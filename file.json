@@ -1,7 +1,8 @@
 {
     "status": "ok",
     "version": "2.1.5",
-    "releaseNotes": "### What's New\n- Bug fixes\n- Improved performance\n- New feature: XYZ",
+    "releaseNotes": "### What's New\\n- Bug fixes\\n- Improved performance\\n- Added new feature: XYZ",
+
     "name": "GOVIN",
     "description": "GOVIN v2 Application",
     "author": {
